@@ -17,7 +17,7 @@ I'm a **hands-on builder** who ships ideas fast — from data-driven tools to in
 |--------|-------|--------------|
 | 💰 [TrackWise](https://parse-track-shine.lovable.app) | React · Lovable · Gemini AI | Upload a bank statement or receipt — AI categorizes it, tracks your goals, and chats back with insights |
 | 📊 [GenAI-Sentiment-Analysis-Dashboard](https://github.com/Nimesh1kotadia/GenAI-Sentiment-Analysis-Dashboard) | Python · Streamlit · OpenAI API | Built a Streamlit app that enables users to upload review CSVs, auto-categorize feedback, and explore insights through an interactive dashboard |
-| ⚡ [Combined Cycle Power Plant Energy Output Prediction (Regression)](https://github.com/Nimesh1kotadia/Regression_Model_Predict_Output_Combined_Cycle_PowerPlant) | Streamlit | [Built a regression model to estimate power plant electrical output by learning relationships between environmental factors and energy generation] |
+| ⚡ [Combined Cycle Power Plant Energy Output Prediction (Regression)](https://github.com/Nimesh1kotadia/Regression_Model_Predict_Output_Combined_Cycle_PowerPlant) | JupyterNotebook | Built a regression model to estimate power plant electrical output by learning relationships between environmental factors and energy generation |
 
 ---
 
