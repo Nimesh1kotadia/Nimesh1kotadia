@@ -31,9 +31,9 @@ I'm a **hands-on builder** who ships ideas fast — from data-driven tools to in
 
 ## 🧰 My Toolbox
 
-**Build & Prototype:** Streamlit · Lovable · Jupyter Notebook  
-**Data & Analysis:** Python · SQL · PowerBI · Pandas · Matplotlib · Scikit-learn  
-**Explore & Learn:** Prompt Engineering · LLMs · No-code / Low-code tools  
+**Build & Prototype:** Streamlit · Lovable · Jupyter Notebook · Replit (Learning) 
+**Data & Analysis:** Python · SQL · PowerBI · Pandas · Matplotlib · Scikit-learn
+**Project Management Tools:** Azure Dev Ops · Planner · Miro
 
 ---
 
