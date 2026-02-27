@@ -32,7 +32,7 @@ I'm a **hands-on builder** who ships ideas fast — from data-driven tools to in
 ## 🧰 My Toolbox
 
 **Build & Prototype:** Streamlit · Lovable · Jupyter Notebook  
-**Data & Analysis:** Python · Pandas · Matplotlib · Scikit-learn  
+**Data & Analysis:** Python · SQL · PowerBI · Pandas · Matplotlib · Scikit-learn  
 **Explore & Learn:** Prompt Engineering · LLMs · No-code / Low-code tools  
 
 ---
