@@ -4,7 +4,7 @@
 
 ---
 🧭 The Story So Far
-I started my career reading the earth — a Geophysics grad from IIT Kharagpur, interpreting EM, Gravity, Magnetic data as a Geoscientist, using tools like ArcGIS, Geosoft Oasis Montaj, and Maxwell to make decisions from incomplete data. That instinct of finding the patterns, and making the call - has followed me ever since.
+I started my career reading the earth — a Geophysics grad from IIT Kharagpur, interpreting EM, Gravity, Magnetic data as a Geoscientist, using tools like ArcGIS, Geosoft Oasis Montaj, and Maxwell to make decisions from incomplete data. That instinct of finding the patterns, separating signal from noise and making the call - has followed me ever since.
 At S&P Global, I moved into data: first processing 200+ mining reports to extract technical details, then building and co-leading a 120-person team collecting physical asset data for 20,000+ companies. I acted as product owner for an internal collection tool, introduced Python and web extraction to speed up workflows, and in 2023, led my team's adoption of generative AI before it became mainstream. 
 Today I'm an IT Project Manager on S&P's Data Transformation team — managing high-impact projects on web and document data extraction for financial and technical data for companies.
 
