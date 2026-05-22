@@ -32,7 +32,7 @@ I'm a **hands-on builder** who ships ideas fast — from data-driven tools to in
 
 ## 🧰 My Toolbox
 
-**Build & Prototype:** Streamlit · Lovable · Jupyter Notebook · Replit (Learning) | 
+**Build & Prototype:** Streamlit · Github Copilot · VS Code · Lovable · Jupyter Notebook · Replit (Learning) · M365 Copilot | 
 **Data & Analysis:** Python · SQL · PowerBI · Pandas · Matplotlib · Scikit-learn |
 **Project Management Tools:** Azure Dev Ops · Planner · Miro
 
