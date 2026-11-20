@@ -4,11 +4,11 @@
 
 ---
 🧭 The Story So Far
-I started my career reading the earth — a Geophysics grad from IIT Kharagpur, interpreting EM, Gravity, Magnetic data as a Geoscientist, using tools like ArcGIS, Geosoft Oasis Montaj, and Maxwell to make decisions from incomplete data. That instinct of finding the patterns, separating signal from noise and making the call - has followed me ever since.
-At S&P Global, I moved into data: first processing 200+ mining reports to extract technical details, then building and co-leading a 120-person team collecting physical asset data for 20,000+ companies. I acted as product owner for an internal collection tool, introduced Python and web extraction to speed up workflows, and in 2023, led my team's adoption of generative AI before it became mainstream. 
+I started my career reading the earth — a Geophysics grad from IIT Kharagpur, interpreting EM, Gravity, Magnetic data as a Geoscientist, using tools like ArcGIS, Geosoft Oasis Montaj, and Maxwell[...]
+At S&P Global, I moved into data: first processing 200+ mining reports to extract technical details, then building and co-leading a 120-person team collecting physical asset data for 20,000+ compan[...]
 Today I'm an IT Project Manager on S&P's Data Transformation team — managing high-impact projects on web and document data extraction for financial and technical data for companies.
 
-Along the way: two [peer-reviewed publications](https://www.researchgate.net/profile/Nimesh-Kotadia-2) (Springer Nature + Environmental Earth Sciences), a Duke University AI PM specialization, and a habit of building things on weekends.
+Along the way: two [peer-reviewed publications](https://www.researchgate.net/profile/Nimesh-Kotadia-2) (Springer Nature + Environmental Earth Sciences), a Duke University AI PM specialization, and[...]
 
 ---
 
@@ -23,10 +23,12 @@ I'm a **hands-on builder** who ships ideas fast — from data-driven tools to in
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| 💰 [TrackWise](https://parse-track-shine.lovable.app) | React · Lovable · Gemini AI | Upload a bank statement or receipt — AI categorizes it, tracks your goals, and chats back with insights |
-| ⚡ [LLM User Story Creator for Azure DevOps Features](https://github.com/Nimesh1kotadia/LLM_UserStory_Creator) | React, Streamlit | User Story creator worklow using LLM and Azure Dev Ops read/write API |
-| 📊 [GenAI-Sentiment-Analysis-Dashboard](https://github.com/Nimesh1kotadia/GenAI-Sentiment-Analysis-Dashboard) | Python · Streamlit · OpenAI API | Built a Streamlit app that enables users to upload review CSVs, auto-categorize feedback, and explore insights through an interactive dashboard |
-| ⚡ [Combined Cycle Power Plant Energy Output Prediction (Regression)](https://github.com/Nimesh1kotadia/Regression_Model_Predict_Output_Combined_Cycle_PowerPlant) | JupyterNotebook | Built a regression model to estimate power plant electrical output by learning relationships between environmental factors and energy generation |
+| 💰 [TrackWise](https://parse-track-shine.lovable.app) | React · Lovable · Gemini AI | Upload a bank statement or receipt — AI categorizes it, tracks your goals, and chats back with insight[...]
+| ⚡ [LLM User Story Creator for Azure DevOps Features](https://github.com/Nimesh1kotadia/LLM_UserStory_Creator) | React, Streamlit | User Story creator worklow using LLM and Azure Dev Ops read/w[...]
+| 📊 [GenAI-Sentiment-Analysis-Dashboard](https://github.com/Nimesh1kotadia/GenAI-Sentiment-Analysis-Dashboard) | Python · Streamlit · OpenAI API | Built a Streamlit app that enables users to [...]
+| ⚡ [Combined Cycle Power Plant Energy Output Prediction (Regression)](https://github.com/Nimesh1kotadia/Regression_Model_Predict_Output_Combined_Cycle_PowerPlant) | JupyterNotebook | Built a re[...]
+
+📊 **I love creating clear, engaging HTML-based analysis reports that turn complex data into actionable insights.**
 
 ---
 
@@ -59,7 +61,7 @@ Covering AI strategy, product lifecycle, ethics, and deploying AI-powered produc
 
 ✅ Full-time product manager roles  &nbsp;|&nbsp; ✅ Collaborations &nbsp;|&nbsp; ✅ Interesting conversations
 
-**Drop me a message →** [[nimesh2kotadia@gmail.com](mailto:nimesh2kotadia@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nimesh-kotadia-b7956875/)
+**Drop me a message →** [[nimesh2kotadia@gmail.com](mailto:nimesh2kotadia@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nimesh-kotadia-b7956875/) 
 
 ---
 
