@@ -4,11 +4,11 @@
 
 ---
 🧭 The Story So Far
-I started my career reading the earth — a Geophysics grad from IIT Kharagpur, interpreting EM, Gravity, Magnetic data as a Geoscientist, using tools like ArcGIS, Geosoft Oasis Montaj, and Maxwell[...]
-At S&P Global, I moved into data: first processing 200+ mining reports to extract technical details, then building and co-leading a 120-person team collecting physical asset data for 20,000+ compan[...]
+I started my career reading the earth — a Geophysics grad from IIT Kharagpur, interpreting EM, Gravity, Magnetic data as a Geoscientist, using tools like ArcGIS, Geosoft Oasis Montaj, and Maxwell.
+At S&P Global, I moved into data: first processing 200+ mining reports to extract technical details, then building and co-leading a 120-person team collecting physical asset data for 20,000+ companies.
 Today I'm an IT Project Manager on S&P's Data Transformation team — managing high-impact projects on web and document data extraction for financial and technical data for companies.
 
-Along the way: two [peer-reviewed publications](https://www.researchgate.net/profile/Nimesh-Kotadia-2) (Springer Nature + Environmental Earth Sciences), a Duke University AI PM specialization, and[...]
+Along the way: two [peer-reviewed publications](https://www.researchgate.net/profile/Nimesh-Kotadia-2) (Springer Nature + Environmental Earth Sciences), a Duke University AI PM specialization, and a growing obsession with AI, LLMs, and agentic systems.
 
 ---
 
@@ -23,12 +23,12 @@ I'm a **hands-on builder** who ships ideas fast — from data-driven tools to in
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| 💰 [TrackWise](https://parse-track-shine.lovable.app) | React · Lovable · Gemini AI | Upload a bank statement or receipt — AI categorizes it, tracks your goals, and chats back with insight[...]
-| ⚡ [LLM User Story Creator for Azure DevOps Features](https://github.com/Nimesh1kotadia/LLM_UserStory_Creator) | React, Streamlit | User Story creator worklow using LLM and Azure Dev Ops read/w[...]
-| 📊 [GenAI-Sentiment-Analysis-Dashboard](https://github.com/Nimesh1kotadia/GenAI-Sentiment-Analysis-Dashboard) | Python · Streamlit · OpenAI API | Built a Streamlit app that enables users to [...]
-| ⚡ [Combined Cycle Power Plant Energy Output Prediction (Regression)](https://github.com/Nimesh1kotadia/Regression_Model_Predict_Output_Combined_Cycle_PowerPlant) | JupyterNotebook | Built a re[...]
+| 💰 [TrackWise](https://parse-track-shine.lovable.app) | React · Lovable · Gemini AI | Upload a bank statement or receipt — AI categorizes it, tracks your goals, and chats back with insight.
+| ⚡ [LLM User Story Creator for Azure DevOps Features](https://github.com/Nimesh1kotadia/LLM_UserStory_Creator) | React, Streamlit | User Story creator worklow using LLM and Azure Dev Ops relevant data.
+| 📊 [GenAI-Sentiment-Analysis-Dashboard](https://github.com/Nimesh1kotadia/GenAI-Sentiment-Analysis-Dashboard) | Python · Streamlit · OpenAI API | Built a Streamlit app that enables users to upload and analyze customer reviews using GPT-powered sentiment scoring and LLM.
+| ⚡ [Combined Cycle Power Plant Energy Output Prediction (Regression)](https://github.com/Nimesh1kotadia/Regression_Model_Predict_Output_Combined_Cycle_PowerPlant) | JupyterNotebook | Built a regression model to predict plant energy output using 6 operational features. 
 
-📊 **I love creating clear, engaging HTML-based analysis reports that turn complex data into actionable insights.**
+📊 **I love creating clear, engaging HTML-based analysis reports that turn complex data into actionable insights.** See my [HTML analysis: Nike Global Store Footprint](./Nike_Global_Store_Footprint.html).
 
 ---
 
